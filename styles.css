@@ -14,8 +14,8 @@ body {
     margin: 0;
     padding: 0;
  --primary-color: #2196F3; /* Azul claro */
-  --secondary-color: #ff0707; /* Amarelo */
-  --text-color: #fc0000;
+  --secondary-color: #05fd648f; /* Amarelo */
+  --text-color: #05fd64;
  color: var(--text-color);
  background-image: url(fundo.png);
  background-size: cover;

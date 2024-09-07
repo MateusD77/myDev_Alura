@@ -117,15 +117,3 @@ footer {
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
 }
-@media (max-width: 768px) {
-    h1 {
-        font-size: 1.5rem;
-    }
-    .search-section,
-    .results-section {
-        width: 95%; /* Largura da seção de pesquisa */
-    }
-    .item-resultado a {
-        font-size: 0.9rem;
-    }
-}

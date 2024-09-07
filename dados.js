@@ -42,6 +42,6 @@ let jogos= [
     {
     titulo: "Guardians of the Galaxy",
     descricao: "Guardians of the Galaxy é um jogo de ação e aventura que coloca você no papel de Star-Lord, líder dos Guardiões da Galáxia. Explore planetas alienígenas, lute contra inimigos épicos e vivencie uma história emocionante com os personagens mais amados da Marvel.",
-    link: "https://www.guardiansofthegalaxy.game/"
+    link: "https://www.xbox.com/pt-BR/games/store/Guardioes-da-Galaxia-da-Marvel/9PGLL77C201J?msockid=154e916f08a96e5a2d9c805d09c26fcc"
 }
 ];

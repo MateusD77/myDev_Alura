@@ -38,5 +38,10 @@ let jogos= [
         titulo: "Call of Duty: Warzone",
         descricao: "Call of Duty: Warzone é um jogo de tiro em primeira pessoa gratuito e battle royale que coloca até 150 jogadores em um mapa gigante para uma batalha até o último sobrevivente. Com uma jogabilidade intensa e um arsenal de armas personalizáveis, Warzone oferece uma experiência emocionante e competitiva.",
         link: "https://www.callofduty.com/warzone"
-    }
+    },
+    {
+    titulo: "Guardians of the Galaxy",
+    descricao: "Guardians of the Galaxy é um jogo de ação e aventura que coloca você no papel de Star-Lord, líder dos Guardiões da Galáxia. Explore planetas alienígenas, lute contra inimigos épicos e vivencie uma história emocionante com os personagens mais amados da Marvel.",
+    link: "https://www.guardiansofthegalaxy.game/"
+}
 ];
